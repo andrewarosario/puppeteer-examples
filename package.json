@@ -1,0 +1,19 @@
+{
+  "name": "puppeteer-node",
+  "version": "1.0.0",
+  "description": "",
+  "main": "books.js",
+  "dependencies": {
+    "puppeteer": "^5.3.0",
+    "puppeteer-extra": "^3.1.15",
+    "puppeteer-extra-plugin-recaptcha": "^3.1.18",
+    "readline-sync": "^1.4.10"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
